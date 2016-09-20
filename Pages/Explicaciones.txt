@@ -1,0 +1,6 @@
+Bienvenida 2
+Buscador 1
+config 2
+Login 1
+Registro 2
+Inicio 2
