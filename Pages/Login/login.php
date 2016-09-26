@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Login</title>
     <link rel="stylesheet" type="text/css" href="../../bt/css/bootstrap.css">
-      <link rel="stylesheet" type="text/css" href="local.css">
+      <link rel="stylesheet" type="text/css" href="../css/local.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="../../bt/js/bootstrap.js"></script>
   </head>
